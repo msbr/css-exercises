@@ -1,0 +1,15 @@
+div {font-size: 32px;   
+    color: white;
+   background-color: red;
+   text-align: center;
+}
+p {
+   font-size: 18 px;
+   color: white;
+   background-color: green;
+}
+
+.button {font-size: 18px;
+         color: white;
+         background-color: orange;       
+}
